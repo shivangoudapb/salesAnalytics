@@ -22,6 +22,9 @@ Using MySQL, Power Query, and Power BI, I transformed raw sales data into an int
   - Built an interactive dashboard with filters, KPIs, and visualizations.
 
 
+## Database Schema
+![schema](salesSchema.png)
+
 ## 🛠️ Tech Stack
 - **Database:** MySQL
 - **Data Cleaning:** Power Query
